@@ -1,5 +1,6 @@
 <div align="center">
-![Web Development](https://img.shields.io/badge/Skill-Web%20Development-%23111111)
+ 
+<img src="https://img.shields.io/badge/Skill-Web%20Development-%23111111" alt="Web Development" />
 ![Pen Testing](https://img.shields.io/badge/Skill-Pen%20Testing-%23111111)
 ![OSINT](https://img.shields.io/badge/Skill-OSINT-%23111111)
 ![Hidden Service](https://img.shields.io/badge/Skill-Hidden%20Service-%23111111)
