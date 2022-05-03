@@ -10,13 +10,13 @@
  <br />
  
 <div> 
- <img src="https://github-readme-stats.vercel.app/api?username=Ange-Rodriguez&title_color=ffffff&bg_color=111111&icon_color=ffffff&count_private=true&show_icons=true&include_all_commits=true&langs_count=6&text_color=ffffff" alt="Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Ange-Rodriguez&title_color=ffffff&bg_color=111111&icon_color=ffffff&count_private=true&show_icons=true&include_all_commits=true&langs_count=6&text_color=ffffff&hide_border=false&border_color=000000" alt="Stats" />
 </div>
  
  <br />
  
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ange-Rodriguez&title_color=ffffff&bg_color=111111&langs_count=6&text_color=ffffff&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ange-Rodriguez&title_color=ffffff&bg_color=111111&langs_count=6&text_color=ffffff&layout=compact&hide_border=false&border_color=000000" alt="Top languages" />
  </div>
 
  <br />
