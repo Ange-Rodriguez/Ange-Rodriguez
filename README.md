@@ -9,7 +9,7 @@
  <br />
  <br />
  
-<div> 
+<!--<div> 
  <img src="https://github-readme-stats.vercel.app/api?username=Ange-Rodriguez&title_color=ffffff&bg_color=000000&icon_color=ffffff&count_private=true&show_icons=true&include_all_commits=true&langs_count=6&text_color=ffffff&hide_border=false&border_color=000000" alt="Stats" />
 </div>
  
@@ -28,3 +28,4 @@
 
  
 </div>
+-->
